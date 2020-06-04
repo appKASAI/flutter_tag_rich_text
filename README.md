@@ -28,6 +28,8 @@ The types of tags that can be used are bold(b), color, italic(i), size, underlin
 
  ## Example
 
- \<b><color=#800000>This color is #800000 and bold. \</color>\</b><size=30>\<u>\<link=https://www.google.co.jp/>This is underline and link. Size is 30\</link>\</u>\</size>
+``` <b><color=#800000>This color is #800000 and bold. </color></b><size=30><u><link=https://www.google.co.jp/>This is underline and link. Size is 30</link></u></size>``` 
 
-(https://user-images.githubusercontent.com/52235899/83761760-b2f45280-a6b1-11ea-99fc-e159417f949b.jpg)
+
+
+![example](https://user-images.githubusercontent.com/52235899/83761760-b2f45280-a6b1-11ea-99fc-e159417f949b.jpg)
