@@ -20,7 +20,7 @@ dependencies:
 Import `tag_rich_text.dart`
 
 ```
-import 'package:tag_rich_text.dart/tag_rich_text.dart.dart';
+import 'package:tag_rich_text/tag_rich_text.dart';
 ```
 
 
