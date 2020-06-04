@@ -7,7 +7,10 @@ RichTextを決められたタグを使うことで、Stringの文字列から作
 ```
 dependencies:
   ...
-  sqflite: 1.0.1
+  tag_rich_text:
+    git:
+      url: git://github.com/appKASAI/flutter_tag_rich_text.git
+      ref: master
 ```
 
 
